@@ -1,6 +1,10 @@
 # gameboy
 ## professional at stuff
-### yes
+### bio
+
+i like to create videogames and do stupid crap with the things i learned
+thats pretty much what i do
+
 
 <!--
 **AGameboyIsNotAvaliable/AGameboyIsNotAvaliable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
